@@ -23,7 +23,7 @@
 </div>
 
 
-<center> <img src="https://github.com/AlejandroOchoaG/Az-900/blob/main/img/clud.png?raw=true" alt="clud.png" style="zoom:50%;" /></center>
+<center> <img src="https://github.com/AlejandroOchoaG/Az-900/blob/main/img/clud2.png?raw=true" alt="clud.png" style="zoom:50%;" /></center>
 
 #### Definición
 
