@@ -10,8 +10,8 @@
 ------
 
 <div >
-<br><h2>Semana 
-<span style="color:red;"> 1 </span></h2>
+<br><center><h2>Semana
+  <span style="color:red;"> 1 </span></h2></center>
 </div>
 
 
