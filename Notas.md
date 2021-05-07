@@ -1,11 +1,11 @@
-<div style="position:relative;margin:0px auto;padding:0px;">
+<!--<div style="position:relative;margin:0px auto;padding:0px;">
 <div style="width:110px;display:inline-block;text-align:center;height:100%;vertical-align:middle;margin:0px auto;padding:0px;">
 <img src="https://github.com/AlejandroOchoaG/Az-900/blob/main/img/phyon.png?raw=true" style="width:100%;display:inline;">
 </div>
 <div style="width:350px;display:inline-block;text-align:center;height:100%;vertical-align:middle;">
 <h1>Notas del curso</h1>
 </div>
-</div>
+</div> -->
 
 ------
 
