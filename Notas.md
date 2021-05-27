@@ -30,3 +30,14 @@
 > La nube está conformada por `servidores` en centros de datos en todo el mundo. Pasarse a la nube puede ahorrar dinero a las empresas y agregar comodidad para los usuarios.
 >
 > > La informática en la nube es el suministro de servicios informáticos (incluidos `servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia`) a través de Internet (“**la nube**”), cuyo objetivo es ofrecer una innovación más rápida, recursos flexibles y economías de escala. Lo habitual es pagar solo por los servicios en la nube utilizados, de tal forma que lo ayude a reducir los costos operativos, a ejecutar la infraestructura con más eficacia y a escalar a medida que cambian las necesidades de su negocio.
+
+#         Existen 3 tipos de nubes
+
+
+
++ ## Nube pública
+
+
+
+Esta nube se le define a la cúal cumple ciertos aspectos como lo abierta que es en el sentido del como es el ámbito de trabajo
+
