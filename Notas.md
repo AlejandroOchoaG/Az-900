@@ -37,7 +37,17 @@
 
 + ## Nube pública
 
+Esta nube se le define a la cúal cumple ciertos aspectos como lo abierta que es en el sentido del como es el ámbito de trabajo y por las herramientas de la nube **por ejemplo:** tenemos a amazon o google que tienen sus propias nubes y cualquiera puede abrir una cuenta y empezar a operarla y adquirir los recursos necesarios.
 
 
-Esta nube se le define a la cúal cumple ciertos aspectos como lo abierta que es en el sentido del como es el ámbito de trabajo
+
++ ## Nube privada
+
+Esta es una nube que muchos consideran que tienen más desventajas por la razon que es simplemente porque aparte de que la propia **organización se encarga de todo** tanto del ``Hardware, software, mantenimiento, infraestructura``y de practicamente todo, cabe mencionar que es mucha la probabilidaes de ataque ya que por nube privada esos comportamientos son controlados manualmente pero es mucha la probabilidad de que no este preparada para un ataque en cadena por un conjunto grande de equipos que pueden hacer llamadas a ese sitio para tirarlo, asi que esta a criterio.
+
+
+
++ ## Nube hibrida
+
+Como lo dice su nombre es una combinación de ambas nubes con cosas que se pueden hallar como tener nuestro propio sitiio de hospedaje fisico pero puede pasar los datos por medio de una nube pública, asi sin más, usas tu nube privada con servicios de una nube pública y vicebersa.
 
